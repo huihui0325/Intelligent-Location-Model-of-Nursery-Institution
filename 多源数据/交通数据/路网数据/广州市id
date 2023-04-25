@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-02-02T15:52:19Z"/>
+
+  <relation id="3287346">
+    <member type="node" ref="244080443" role="admin_centre"/>
+    <member type="way" ref="887859218" role="outer"/>
+    <member type="way" ref="243200508" role="outer"/>
+    <member type="way" ref="893596829" role="outer"/>
+    <member type="way" ref="905835832" role="outer"/>
+    <member type="way" ref="905835833" role="outer"/>
+    <member type="way" ref="258135276" role="outer"/>
+    <member type="way" ref="502084478" role="outer"/>
+    <member type="way" ref="893881727" role="outer"/>
+    <member type="way" ref="897403988" role="outer"/>
+    <member type="way" ref="502084464" role="outer"/>
+    <member type="way" ref="893881723" role="outer"/>
+    <member type="way" ref="243180071" role="outer"/>
+    <member type="way" ref="232643055" role="outer"/>
+    <member type="way" ref="897209810" role="outer"/>
+    <member type="way" ref="897209809" role="outer"/>
+    <member type="way" ref="897209808" role="outer"/>
+    <member type="way" ref="897209807" role="outer"/>
+    <member type="way" ref="897209806" role="outer"/>
+    <member type="way" ref="897209805" role="outer"/>
+    <member type="way" ref="237836717" role="outer"/>
+    <member type="way" ref="897209804" role="outer"/>
+    <member type="way" ref="894658329" role="outer"/>
+    <member type="way" ref="894658328" role="outer"/>
+    <member type="way" ref="241130106" role="outer"/>
+    <member type="way" ref="894658327" role="outer"/>
+    <member type="way" ref="901477927" role="outer"/>
+    <member type="way" ref="243180068" role="outer"/>
+    <member type="way" ref="901477930" role="outer"/>
+    <member type="way" ref="901477929" role="outer"/>
+    <member type="way" ref="901477928" role="outer"/>
+    <member type="way" ref="901477932" role="outer"/>
+    <member type="way" ref="901477931" role="outer"/>
+    <member type="way" ref="238169316" role="outer"/>
+    <member type="way" ref="238169323" role="outer"/>
+    <member type="way" ref="243180059" role="outer"/>
+    <member type="way" ref="380405952" role="outer"/>
+    <member type="way" ref="380403157" role="outer"/>
+    <member type="way" ref="380359159" role="outer"/>
+    <member type="way" ref="380359165" role="outer"/>
+    <member type="way" ref="697613100" role="outer"/>
+    <member type="way" ref="243183699" role="outer"/>
+    <member type="way" ref="886690688" role="outer"/>
+    <member type="way" ref="243183698" role="outer"/>
+    <member type="way" ref="380359158" role="outer"/>
+    <member type="way" ref="380359168" role="outer"/>
+    <member type="way" ref="380359162" role="outer"/>
+    <member type="way" ref="243183697" role="outer"/>
+    <member type="way" ref="380359157" role="outer"/>
+    <member type="way" ref="682068021" role="outer"/>
+    <member type="way" ref="380359164" role="outer"/>
+    <member type="way" ref="682068022" role="outer"/>
+    <member type="way" ref="363428860" role="outer"/>
+    <member type="way" ref="258145972" role="outer"/>
+    <member type="way" ref="1039497670" role="outer"/>
+    <member type="way" ref="380538744" role="outer"/>
+    <member type="way" ref="682068005" role="outer"/>
+    <member type="way" ref="380538775" role="outer"/>
+    <member type="way" ref="682068007" role="outer"/>
+    <member type="way" ref="380519915" role="outer"/>
+    <member type="way" ref="258135263" role="outer"/>
+    <member type="way" ref="682068013" role="outer"/>
+    <member type="way" ref="877992502" role="outer"/>
+    <member type="way" ref="308993744" role="outer"/>
+    <member type="way" ref="243183695" role="outer"/>
+    <member type="way" ref="886152911" role="outer"/>
+    <member type="way" ref="886150329" role="outer"/>
+    <member type="way" ref="308994530" role="outer"/>
+    <member type="way" ref="258135267" role="outer"/>
+    <member type="way" ref="682068004" role="outer"/>
+    <member type="way" ref="681745950" role="outer"/>
+    <member type="way" ref="243200520" role="outer"/>
+    <member type="way" ref="681745944" role="outer"/>
+    <member type="way" ref="681745948" role="outer"/>
+    <member type="way" ref="837265438" role="outer"/>
+    <member type="way" ref="837675237" role="outer"/>
+    <member type="way" ref="308996792" role="outer"/>
+    <member type="way" ref="681680464" role="outer"/>
+    <member type="way" ref="838000300" role="outer"/>
+    <member type="way" ref="681678752" role="outer"/>
+    <member type="way" ref="243200512" role="outer"/>
+    <member type="way" ref="887859224" role="outer"/>
+    <member type="way" ref="887859220" role="outer"/>
+    <member type="way" ref="309004326" role="outer"/>
+    <member type="way" ref="909256526" role="outer"/>
+    <member type="relation" ref="3987393" role="subarea"/>
+    <member type="relation" ref="3287616" role="subarea"/>
+    <member type="relation" ref="3287617" role="subarea"/>
+    <member type="relation" ref="3287618" role="subarea"/>
+    <member type="relation" ref="3287615" role="subarea"/>
+    <member type="relation" ref="3287345" role="subarea"/>
+    <member type="relation" ref="3287298" role="subarea"/>
+    <member type="relation" ref="3287299" role="subarea"/>
+    <member type="relation" ref="3987394" role="subarea"/>
+    <member type="relation" ref="3987437" role="subarea"/>
+    <member type="relation" ref="3987435" role="subarea"/>
+    <tag k="admin_level" v="5"/>
+    <tag k="alt_name" v="广州"/>
+    <tag k="alt_name:cs" v="Kuang-čou"/>
+    <tag k="alt_name:en" v="Canton"/>
+    <tag k="alt_name:he" v="גואנגזו"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="division_code" v="440100"/>
+    <tag k="name" v="广州市"/>
+    <tag k="name:ace" v="Guangzhou"/>
+    <tag k="name:af" v="Guangzhou"/>
+    <tag k="name:am" v="ጓንግዦው"/>
+    <tag k="name:ar" v="غوانزو"/>
+    <tag k="name:arz" v="جوانزو"/>
+    <tag k="name:ast" v="Cantón"/>
+    <tag k="name:az" v="Quançjou"/>
+    <tag k="name:azb" v="قوانقژو"/>
+    <tag k="name:ba" v="Гуанчжоу"/>
+    <tag k="name:be" v="Гуанчжоу"/>
+    <tag k="name:be-tarask" v="Гуанчжоў"/>
+    <tag k="name:bg" v="Гуанджоу"/>
+    <tag k="name:bm" v="Guangzhou"/>
+    <tag k="name:bn" v="কুয়াংচৌ"/>
+    <tag k="name:bo" v="ཀོང་ཀྲོའུ་གྲོང་ཁྱེར།"/>
+    <tag k="name:br" v="Guangzhou"/>
+    <tag k="name:bs" v="Guangzhou"/>
+    <tag k="name:bxr" v="Гуанчжоу"/>
+    <tag k="name:ca" v="Canton"/>
+    <tag k="name:cdo" v="Guōng-ciŭ"/>
+    <tag k="name:ce" v="Гуанчжоу"/>
+    <tag k="name:ceb" v="Guangzhou"/>
+    <tag k="name:chy" v="Guangzhou"/>
+    <tag k="name:cs" v="Kanton"/>
+    <tag k="name:cy" v="Guangzhou"/>
+    <tag k="name:da" v="Guangzhou"/>
+    <tag k="name:de" v="Guangzhou"/>
+    <tag k="name:el" v="Κουανγκτσόου"/>
+    <tag k="name:en" v="Guangzhou City"/>
+    <tag k="name:eo" v="Kantono"/>
+    <tag k="name:es" v="Cantón"/>
+    <tag k="name:et" v="Guangzhou"/>
+    <tag k="name:eu" v="Guangzhou"/>
+    <tag k="name:ext" v="Cantón"/>
+    <tag k="name:fa" v="گوانگ‌ژو"/>
+    <tag k="name:fi" v="Kanton"/>
+    <tag k="name:fj" v="Guagzhou"/>
+    <tag k="name:fo" v="Guangzhou"/>
+    <tag k="name:fr" v="Canton"/>
+    <tag k="name:frr" v="Guangzhou"/>
+    <tag k="name:ga" v="Guangzhou"/>
+    <tag k="name:gan" v="廣州"/>
+    <tag k="name:gl" v="Cantón, China"/>
+    <tag k="name:got" v="𐌺𐌰𐌽𐍄𐍉"/>
+    <tag k="name:ha" v="Guangzhou"/>
+    <tag k="name:hak" v="Kóng-chû-sṳ"/>
+    <tag k="name:he" v="גואנגג'ואו"/>
+    <tag k="name:hi" v="ग्वांगझोउ"/>
+    <tag k="name:hr" v="Guangzhou"/>
+    <tag k="name:hu" v="Kanton"/>
+    <tag k="name:hy" v="Գուանչժոու"/>
+    <tag k="name:id" v="Guangzhou"/>
+    <tag k="name:ie" v="Guangzhou"/>
+    <tag k="name:io" v="Guangzhou"/>
+    <tag k="name:is" v="Guangzhou"/>
+    <tag k="name:it" v="Canton"/>
+    <tag k="name:ja" v="広州市"/>
+    <tag k="name:ka" v="გუანჯოუ"/>
+    <tag k="name:kaa" v="Guangjow"/>
+    <tag k="name:ki" v="Guangzhou"/>
+    <tag k="name:kk" v="Гуанчжоу"/>
+    <tag k="name:kn" v="ಕ್ವಾಂಗ್ಕ್ಸೌ"/>
+    <tag k="name:ko" v="광저우시"/>
+    <tag k="name:krc" v="Гуанчжоу"/>
+    <tag k="name:ku" v="Guangzhou"/>
+    <tag k="name:kw" v="Guangzhou"/>
+    <tag k="name:ky" v="Гуанчжоу"/>
+    <tag k="name:la" v="Quancheum"/>
+    <tag k="name:lb" v="Guangzhou"/>
+    <tag k="name:ln" v="Guangzhou"/>
+    <tag k="name:lo" v="ກວ່າງໂຈວ"/>
+    <tag k="name:lt" v="Guangdžou"/>
+    <tag k="name:lv" v="Guandžou"/>
+    <tag k="name:mai" v="ग्वांगझोउ"/>
+    <tag k="name:mg" v="Guangzhou"/>
+    <tag k="name:mhr" v="Гуанчжоу"/>
+    <tag k="name:mi" v="Guangzhou"/>
+    <tag k="name:ml" v="ഗ്വാങ്ജോ"/>
+    <tag k="name:mn" v="Гуанжоу"/>
+    <tag k="name:mr" v="क्वांगचौ"/>
+    <tag k="name:ms" v="Guangzhou"/>
+    <tag k="name:my" v="ကွမ်ကျိုးမြို့"/>
+    <tag k="name:nan" v="Kńg-chiu-chhī"/>
+    <tag k="name:ne" v="ग्वांगझोउ"/>
+    <tag k="name:nl" v="Guangzhou"/>
+    <tag k="name:nn" v="Guangzhou"/>
+    <tag k="name:no" v="Guangzhou"/>
+    <tag k="name:ny" v="Guangzhou"/>
+    <tag k="name:oc" v="Canton"/>
+    <tag k="name:os" v="Гуанчжоу"/>
+    <tag k="name:pa" v="ਗੁਆਂਗਜ਼ੂ"/>
+    <tag k="name:pam" v="Guangzhou"/>
+    <tag k="name:pl" v="Kanton"/>
+    <tag k="name:pnb" v="شینیانگ"/>
+    <tag k="name:pt" v="Cantão"/>
+    <tag k="name:qu" v="Guangzhou"/>
+    <tag k="name:ro" v="Guangzhou"/>
+    <tag k="name:ru" v="Гуанчжоу"/>
+    <tag k="name:sah" v="Гуандьоу"/>
+    <tag k="name:sco" v="Guangzhou"/>
+    <tag k="name:sh" v="Guangzhou"/>
+    <tag k="name:simple" v="Guangzhou"/>
+    <tag k="name:sk" v="Kanton"/>
+    <tag k="name:sl" v="Guangdžov"/>
+    <tag k="name:sq" v="Guangzhou"/>
+    <tag k="name:sr" v="Гуангџоу"/>
+    <tag k="name:sv" v="Guangzhou"/>
+    <tag k="name:sw" v="Guangzhou"/>
+    <tag k="name:szl" v="Kantůn"/>
+    <tag k="name:ta" v="குவாங்சௌ"/>
+    <tag k="name:th" v="กว่างโจว"/>
+    <tag k="name:tl" v="Guangzhou"/>
+    <tag k="name:tn" v="Guangzhou"/>
+    <tag k="name:tr" v="Guangzhou"/>
+    <tag k="name:tt" v="Гуаңҗу"/>
+    <tag k="name:ug" v="گۇاڭجۇ شەھىرى"/>
+    <tag k="name:uk" v="Ґуанчжоу"/>
+    <tag k="name:ur" v="گوانگژو"/>
+    <tag k="name:uz" v="Guanchjou"/>
+    <tag k="name:vep" v="Guančžou"/>
+    <tag k="name:vi" v="Quảng Châu"/>
+    <tag k="name:war" v="Guangzhou"/>
+    <tag k="name:wo" v="Guangzhou"/>
+    <tag k="name:wuu" v="广州"/>
+    <tag k="name:yue" v="廣州"/>
+    <tag k="name:za" v="Gvangjcouh"/>
+    <tag k="name:zh" v="广州市"/>
+    <tag k="name:zh-Hans" v="广州市"/>
+    <tag k="name:zh-Hant" v="廣州市"/>
+    <tag k="name:zh_classical" v="廣州市"/>
+    <tag k="name:zh_pinyin" v="Guăngzhōu Shì"/>
+    <tag k="old_name:en" v="Canton;Kwangchow"/>
+    <tag k="old_name:io" v="Kanton"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q16572"/>
+    <tag k="wikipedia" v="en:Guangzhou"/>
+  </relation>
+
+</osm>
